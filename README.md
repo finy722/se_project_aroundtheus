@@ -13,4 +13,4 @@ https://finy722.github.io/se_project_aroundtheus/
 Here are the links to my video on the breakdown on the project:
 
 https://drive.google.com/file/d/1qCOtg8822AiGorZa0d9fO7Yuqv8JzQjB/view?usp=sharing
-https://drive.google.com/file/d/1qCOtg8822AiGorZa0d9fO7Yuqv8JzQjB/view?usp=sharing
+https://drive.google.com/file/d/16Ot8uPCipW7Z1buyx1AxhpfICGyKOX6q/view?usp=sharing

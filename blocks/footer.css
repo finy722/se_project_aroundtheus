@@ -1,6 +1,6 @@
-footer {
+footer__content {
   max-width: 880px;
-  width: 100%;
+  width: calc(100% - 38px);
   position: relative;
   margin: 0 auto;
   padding: 45px 0 41px 0;
@@ -11,12 +11,13 @@ footer {
   color: rgba(84, 84, 84, 1);
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-weight: 400;
+  font-size: 18px;
+  line-height: 21.78px;
 }
 
 @media screen and (max-width: 320px) {
-  .profile__footer {
-    max-width: 320px;
-    margin: 0;
-    width: auto;
+  .footer__description {
+    font-size: 14px;
+    line-height: 16.94px;
   }
 }

@@ -3,10 +3,6 @@
   color: white;
 }
 
-.page__image {
-  max-width: 173px;
-}
-
 .page__section {
   max-width: 880px;
   width: 100%;
@@ -21,11 +17,8 @@
 }
 
 @media screen and (max-width: 320px) {
-  .page__image {
-    max-width: 126px;
-  }
-
   .page__section {
     max-width: 320px;
+    gap: inherit;
   }
 }

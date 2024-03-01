@@ -14,7 +14,6 @@
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-weight: 900;
   font-size: 24px;
-  width: 219px;
 }
 
 .card__image {
@@ -31,6 +30,9 @@
   justify-content: space-between;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-weight: 900;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .card__like-button {
@@ -38,6 +40,7 @@
   height: 18px;
   width: 21px;
   border: none;
+  cursor: pointer;
 }
 
 .card__like-button:hover {
