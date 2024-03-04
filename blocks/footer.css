@@ -1,4 +1,4 @@
-footer__content {
+.footer__content {
   max-width: 880px;
   width: calc(100% - 38px);
   position: relative;
@@ -15,7 +15,7 @@ footer__content {
   line-height: 21.78px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 520px) {
   .footer__description {
     font-size: 14px;
     line-height: 16.94px;
