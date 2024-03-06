@@ -1,9 +1,8 @@
-.footer__content {
+.footer {
   max-width: 880px;
   width: calc(100% - 38px);
   position: relative;
   margin: 0 auto;
-  padding: 45px 0 41px 0;
   font-family: "Inter", Arial, Helvetica, sans-serif;
 }
 
@@ -14,6 +13,18 @@
   font-size: 18px;
   line-height: 21.78px;
   margin: 67px auto 60px;
+}
+
+@media screen and (max-width: 920px) {
+  .footer__description {
+    max-width: 581px;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .footer__description {
+    max-width: 282px;
+  }
 }
 
 @media screen and (max-width: 520px) {

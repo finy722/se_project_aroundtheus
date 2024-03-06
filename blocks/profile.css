@@ -92,10 +92,6 @@
     text-align: center;
     font-size: 14px;
     line-height: 16.94px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-    max-width: 282px;
   }
 
   .profile__add-button {
