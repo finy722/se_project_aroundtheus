@@ -31,5 +31,6 @@
   .footer__description {
     font-size: 14px;
     line-height: 16.94px;
+    margin: 48px auto 36px;
   }
 }
